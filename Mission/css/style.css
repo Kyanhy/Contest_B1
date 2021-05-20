@@ -66,6 +66,7 @@ body::-webkit-scrollbar-thumb {
 			padding-right: 24px;
 			font-size: 18px;
 			border: none;
+			color: #FFFFFF;
 }
 
 .button_right {
