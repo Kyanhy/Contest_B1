@@ -90,3 +90,31 @@ body::-webkit-scrollbar-thumb {
       -ms-user-select: none; 
       pointer-events: none;
 }
+
+.round_photo
+{
+  position: relative;
+  width: 410px;
+    height: 410px;
+    border-radius: 200px;
+    background-color: #FFFFFF;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 1px 1px 12px #555;
+    margin-top:35px;
+}
+
+.picture_photo
+{
+  padding-top:5px;
+  width: 400px;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    user-select: none; 
+      -moz-user-select: none; 
+      -webkit-user-drag: none; 
+      -webkit-user-select: none; 
+      -ms-user-select: none; 
+      pointer-events: none;
+}
