@@ -1,6 +1,6 @@
 /* Campus Contest 2021 */
 
-/* Image de fond sur la page d'accueil */
+/* Image d'accueil */
 
 * {
             margin: 0;
@@ -9,11 +9,31 @@
 .image_test {
             display: grid;
             height: 100%;
+            outline:0;
+            user-drag: none; 
+            user-select: none; 
+            -moz-user-select: none; 
+            -webkit-user-drag: none; 
+            -webkit-user-select: none; 
+            -ms-user-select: none; 
+            pointer-events: none;
 }
+
 .fit {
             width: 100%;
             max-height: 100vh;
             margin: auto;
+}
+
+.name {
+  			position: absolute;
+  			font-style: normal;
+  			font-family: sans-serif;
+  			font-size: 30px;
+  			position: absolute;
+  			top: 50%;
+  			left: 50%;
+  			transform: translate(-50%, -50%);
 }
 
 /* Modification de la scrollbar */
