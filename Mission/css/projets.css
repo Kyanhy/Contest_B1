@@ -125,3 +125,29 @@ body::-webkit-scrollbar-thumb {
     margin-top: 5%;
     position: relative;
 }
+
+.ocean {
+      width: 50%;
+      height: 100%;
+      margin-top: 10px;
+      margin-left: 10px;
+      user-select: none; 
+      -moz-user-select: none; 
+      -webkit-user-drag: none; 
+      -webkit-user-select: none; 
+      -ms-user-select: none; 
+      pointer-events: none;
+}
+
+.fantasy_world {
+      width: 70.6%;
+      height: 100%;
+      margin-top: 10px;
+      margin-left: 10px;
+      user-select: none; 
+      -moz-user-select: none; 
+      -webkit-user-drag: none; 
+      -webkit-user-select: none; 
+      -ms-user-select: none; 
+      pointer-events: none;
+}
