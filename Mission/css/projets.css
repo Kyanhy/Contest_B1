@@ -114,6 +114,7 @@ body::-webkit-scrollbar-thumb {
     margin-left:52%;
     margin-top: 5%;
     position: absolute;
+    padding-bottom: 50px;
 }
 
 #abs2 {
@@ -124,6 +125,7 @@ body::-webkit-scrollbar-thumb {
     margin-left: 0%;
     margin-top: 5%;
     position: relative;
+    padding-bottom: 50px;
 }
 
 .ocean {
@@ -150,4 +152,39 @@ body::-webkit-scrollbar-thumb {
       -webkit-user-select: none; 
       -ms-user-select: none; 
       pointer-events: none;
+}
+
+.ocean_text {
+  margin-bottom: 30px;
+}
+
+.fantasy_world_text {
+  margin-bottom: 86px;
+}
+
+.button_dl {
+  background-color: #4A617C;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  font-size : large;
+  font-family : arial;
+  text-align : center;
+  padding-left:30px;
+  padding-right:30px;
+}
+
+.button_dl2 {
+  background-color: #4A617C;
+  color: white;
+  padding: 15px;
+  text-align: center;
+  text-decoration: none;
+  font-size : large;
+  font-family : arial;
+  text-align : center;
+  padding-left:30px;
+  padding-right:30px;
+  margin-top: 800px;
 }
