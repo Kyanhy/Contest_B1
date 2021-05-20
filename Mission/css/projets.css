@@ -159,7 +159,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 .fantasy_world_text {
-  margin-bottom: 86px;
+  margin-bottom: 30px;
 }
 
 .button_dl {
@@ -186,5 +186,4 @@ body::-webkit-scrollbar-thumb {
   text-align : center;
   padding-left:30px;
   padding-right:30px;
-  margin-top: 800px;
 }
