@@ -97,10 +97,9 @@ body::-webkit-scrollbar-thumb {
       width: 410px;
       height: 410px;
       border-radius: 200px;
-      background-color: #FFFFFF;
+      background-color: #212121;
       margin-left: auto;
       margin-right: auto;
-      
       margin-top:35px;
 }
 
