@@ -101,7 +101,7 @@ body::-webkit-scrollbar-thumb {
       margin-top: 50px;
       left: 50%;
       transform: translate(-50%);
-      color: #FFFFFF;
+      color: black;
       text-align: center;
 }
 
@@ -116,12 +116,12 @@ body::-webkit-scrollbar-thumb {
 }
 
 #abs1 {
-  top: 550px;
+  top: 45%;
   left: 25%;
 }
 
 
 #abs2 {
-  top: 550px;
+  top: 45%;
   right: 25%;
 }
