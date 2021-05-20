@@ -1,4 +1,6 @@
-/*CV réaliser en HTML CSS*/
+/* Campus Contest 2021 */
+
+/* Image de fond sur la page d'accueil */
 
 * {
             margin: 0;
@@ -14,3 +16,18 @@
             margin: auto;
 }
 
+/* Modification de la scrollbar */
+
+body::-webkit-scrollbar {
+  width: 14px;
+}
+
+body::-webkit-scrollbar-track {
+  background: #212121;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #ECECEC; 
+  border-radius: 20px;
+  border: 3px solid #212121;
+}
