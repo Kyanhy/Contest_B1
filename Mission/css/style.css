@@ -26,8 +26,7 @@ body::-webkit-scrollbar-thumb {
 .image_test {
             display: grid;
             height: 100%;
-            outline:0;
-            user-drag: none; 
+            outline:0; 
             user-select: none; 
             -moz-user-select: none; 
             -webkit-user-drag: none; 
@@ -58,14 +57,20 @@ body::-webkit-scrollbar-thumb {
 /* Button home */
 
 .button {
-			background-color: transparent;
-			border: none;
-			color: #FFFFFF;
-			padding: 15px 32px;
+			float: left;
+			color: ;
 			text-align: center;
+			padding: 12px;
+			padding-left: 24px;
+			padding-right: 24px;
 			text-decoration: none;
-			display: inline-block;
-			font-size: 16px;
-			font-weight: 700;
+			font-size: 18px;
+			line-height: 25px;
+			border-radius: 4px;
+}
+
+.button_right {
+			left: 50%;
+			transform: translate(-50%);
 			position: absolute;
 }
