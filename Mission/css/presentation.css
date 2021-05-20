@@ -36,9 +36,9 @@ body::-webkit-scrollbar-thumb {
 }
 
 .fit {
-        width: 100%;
         max-height: 100vh;
         margin: auto;
+
 }
 
 .name {
@@ -47,7 +47,7 @@ body::-webkit-scrollbar-thumb {
   			font-family: sans-serif;
   			font-size: 35px;
   			position: absolute;
-  			top: 15%;
+  			top: 200px;
   			left: 50%;
   			transform: translate(-50%, -50%);
   			color: #FFFFFF;
