@@ -2,8 +2,11 @@
 
 ## 📜 Présentation du Campus Contest
 
-Cette année, le Campus Contest, se divise en deux petits projets, le premier qui consiste à réaliser un sapin de noël avec plusieurs niveaux d'élaboration, et le deuxième projet consiste à sécurisert notre projet GUI.
+Ce dernier Campus Contest, consiste à créer en HTML CSS un template pour notre portfolio.
 
+### Test du code
+
+Le code HTML et CSS a été testé sur le site w3c.fr et il n'a désseler aucune erreur.
 
 -----------------
 
