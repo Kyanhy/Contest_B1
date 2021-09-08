@@ -1,4 +1,4 @@
-# Campus Contest B1 Suitch IT
+# Campus Contest V2 Suitch IT
 
 ## 📜 Présentation du Campus Contest
 
