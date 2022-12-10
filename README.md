@@ -1,4 +1,4 @@
-# Campus Contest V2 Suitch IT
+# Campus Contest V2 Switch IT
 
 ## 📜 Présentation du Campus Contest
 
